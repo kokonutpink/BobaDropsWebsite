@@ -1,9 +1,10 @@
 img {
     width: 300px;
+    box-align: left;
 }
 body{
-    text-align: left;
-    font-family: 'Arial';
+    text-align: center;
+    font-family: fantasy;
     background: #BAE391;
     color: blue
 }
